@@ -1,6 +1,6 @@
 # moleku-downloads
 
-# Moleku Downloads
+# Moleku V.1.0.0
 
 Download the latest desktop builds of Moleku here.
 
